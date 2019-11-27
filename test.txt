@@ -1,0 +1,7 @@
+This is a new file
+this is a new line
+this is a new word
+this is a new character
+this is a new byte
+this is a new bit
+this is a new transistor
