@@ -1,9 +1,8 @@
-This is a new file
-this is a new line
-this is a new word
-this is a new character
-this is a new byte
-this is a new bit
-this is a new transistor
-this is a new silicon
-this is a new atom
+This is a new line,
+This is a new word,
+This is a new character,
+This is a new byte,
+This is a new bit,
+This is a new transistor,
+This is a new silicon,
+This is a new atom.
