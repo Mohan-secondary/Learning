@@ -5,3 +5,5 @@ this is a new character
 this is a new byte
 this is a new bit
 this is a new transistor
+this is a new silicon
+this is a new atom
